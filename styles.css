@@ -16,14 +16,17 @@ img {
   background: #EEE;
   padding: 14px;
   border-radius: 15px;
+  text-align: center;
 }
+
+
 
 h2 {
   font-weight: bold;
   border-bottom: solid 4px gray;
   padding-bottom: 8px;
   text-align: center;
-  text-emphasis:
+
 }
 
 /*.centered {*/
