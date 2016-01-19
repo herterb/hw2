@@ -16,9 +16,18 @@ img {
   background: #EEE;
   padding: 14px;
   border-radius: 15px;
+  border-style: solid;
   text-align: center;
+
 }
 
+.header1 {
+  background: #EEE;
+  padding: 14px;
+  border-radius: 15px;
+  text-align: center;
+
+}
 
 
 h2 {
@@ -29,9 +38,30 @@ h2 {
 
 }
 
-/*.centered {*/
- top: 50%;
- left: 50%;
- margin-top: -50px;
- margin-left: 100px;
+
+h3 {
+  font-weight: bold;
+  padding-bottom: 8px;
+  text-align: center;
+  text-decoration: underline;
+
+}
+
+.header1 {
+  background: #EEE;
+  padding: 14px;
+  border-radius: 15px;
+
+}
+
+th {
+  text-align: center;
+  font-size: 12pt
+
+}
+
+.tdcenter{
+text-align:center;
+vertical-align: text-bottom;
+
 }
