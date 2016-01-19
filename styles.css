@@ -25,6 +25,7 @@ img {
   background: #EEE;
   padding: 14px;
   border-radius: 15px;
+  border-style: solid;
   text-align: center;
 
 }
@@ -47,12 +48,6 @@ h3 {
 
 }
 
-.header1 {
-  background: #EEE;
-  padding: 14px;
-  border-radius: 15px;
-
-}
 
 th {
   text-align: center;
@@ -64,4 +59,23 @@ th {
 text-align:center;
 vertical-align: text-bottom;
 
+}
+
+footer{
+
+
+  padding: 14px;
+  border-radius: 15px;
+  border-style: solid;
+  text-align: center;
+}
+
+
+.summary {
+
+
+  padding: 14px;
+  border-radius: 15px;
+  border-style: solid;
+  text-align: center;
 }
