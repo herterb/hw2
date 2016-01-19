@@ -1,7 +1,7 @@
 body {
   width: 700px;
   font-family: "Helvetica", sans-serif;
-  /*margin: 10px auto;*/
+  margin: 10px;
 }
 img {
   /*height:210px;*/
@@ -19,8 +19,11 @@ img {
 }
 
 h2 {
+  font-weight: bold;
   border-bottom: solid 4px gray;
   padding-bottom: 8px;
+  text-align: center;
+  text-emphasis:
 }
 
 /*.centered {*/
