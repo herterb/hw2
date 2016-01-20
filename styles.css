@@ -63,7 +63,7 @@ vertical-align: text-bottom;
 
 footer{
 
-
+  background: #EEE;
   padding: 14px;
   border-radius: 15px;
   border-style: solid;
@@ -78,4 +78,14 @@ footer{
   border-radius: 15px;
   border-style: solid;
   text-align: center;
+}
+
+
+.jumbotron{
+
+  padding: 14px;
+  border-radius: 15px;
+  border-style: solid;
+  text-align: center;
+
 }
